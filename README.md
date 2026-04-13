@@ -20,7 +20,7 @@ Mi objetivo es transformar el aprendizaje a través de la tecnología, la creati
 ---
 
 ## 🛠️ Habilidades
-- **Lenguajes y Tecnologías:** HTML, CSS, JavaScript  
+- **Lenguajes y Tecnologías:** Java, Clarion 
 - **Educación:** Diseño curricular, gamificación, tecnología educativa  
 - **Creatividad:** Simulación interactiva, visualización de datos, comunicación académica
 
@@ -36,7 +36,7 @@ Mi objetivo es transformar el aprendizaje a través de la tecnología, la creati
 
 <div align="center">
   🌐 Encuéntrame en:  
-  <a href="https://github.com/tuusuario" target="_blank">
+  <a href="https://github.com/alg977" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github" />
   </a>
 </div>
